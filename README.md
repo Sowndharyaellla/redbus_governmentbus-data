@@ -1,14 +1,14 @@
 # redbus_governmentbus-data
-this project aims to revolutionize the transportation industry by providing a comprehensive solution for collecting, analyzing, and visualizing bus travel data. By using Selenium,streamlit apllication.this project automates collects the bus route details along with the bus name, departure and arrival timing , duration rating etc., 
+This project aims to revolutionize the transportation industry by providing a comprehensive solution for collecting, analyzing, and visualizing bus travel data. By using Selenium,streamlit apllication.this project automates collects the bus route details along with the bus name, departure and arrival timing , duration rating etc., 
 By streamlining data collection and providing powerful tools for data-driven decision-making, this project can significantly improve operational efficiency and strategic planning in the transportation industry.
-Business Use Cases:
+**Business Use Cases:**
 The solution can be applied to various business scenarios including:
 Travel Aggregators: Providing real-time bus schedules and seat availability for customers.
 Market Analysis: Analyzing travel patterns and preferences for market research.
 Customer Service: Enhancing user experience by offering customized travel options based on data insights.
 Competitor Analysis: Comparing pricing and service levels with competitors.
 
-Data Set Fields & Explanation:
+**Data Set Fields & Explanation:**
 The scraped dataset for this project should contain detailed information about bus services available on Redbus, covering various aspects critical to travelers and service providers. Here is a breakdown of the fields required:
 Bus Routes Name: This field captures the start and end locations of each bus journey, providing crucial information about the routes serviced.
 Bus Routes Link: Link for all the route details.
